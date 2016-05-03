@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/Global.js"],"names":[],"mappings":";;;;;;;;;;;AAMA,IAAI,SAA4B;AAC9B,WAAS;AADqB,CAAhC;;kBAIe,M","file":"Global.js","sourcesContent":["/**\n * @flow\n * Happy Hacking\n * Created by leiyouwho on 2/5/2016.\n */\n\nvar Global: {RootURL: string} = {\n  RootURL: '',\n};\n\nexport default Global;\n"]}
